@@ -1,0 +1,378 @@
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\cakeDB.mdb
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Projeto_Cake.exe.config
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Projeto_Cake.exe
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Projeto_Cake.pdb
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Projeto_Cake.xml
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\adodb.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.vbproj.AssemblyReference.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmClientes.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmLogin.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmMenu.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmPedidos.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmProdutos.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmUsuarios.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.Resources.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.vbproj.GenerateResource.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.vbproj.CoreCompileInputs.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.vbproj.CopyComplete
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.exe
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.xml
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.pdb
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\EnvDTE.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\stdole.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmRelatorio.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\Projeto_Cake\obj\x86\Debug\Projeto_Cake.frmListagemPedidos.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\cakeDB.mdb
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe.config
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.pdb
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.xml
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\adodb.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\EnvDTE.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\stdole.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.AssemblyReference.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmClientes.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmListagemPedidos.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmLogin.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmMenu.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidos.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmProdutos.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmRelatorio.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmUsuarios.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.Resources.resources
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.GenerateResource.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CoreCompileInputs.cache
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CopyComplete
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.exe
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.xml
+C:\Users\vinun\OneDrive\Área de Trabalho\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.pdb
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe.config
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.pdb
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.xml
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\adodb.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\EnvDTE.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\stdole.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.AssemblyReference.cache
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.SuggestedBindingRedirects.cache
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmClientes.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmListagemPedidos.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmLogin.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmMenu.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidos.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmProdutos.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmRelatorio.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmUsuarios.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.Resources.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.GenerateResource.cache
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CoreCompileInputs.cache
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CopyComplete
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.exe
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.xml
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.pdb
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmFiltroData.resources
+D:\PROJETO HUMBERTO\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidosData.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe.config
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.pdb
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.xml
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\adodb.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\EnvDTE.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\stdole.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.AssemblyReference.cache
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmClientes.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmFiltroData.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmListagemPedidos.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmLogin.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmMenu.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidos.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidosData.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmProdutos.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmRelatorio.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmUsuarios.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.Resources.resources
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.GenerateResource.cache
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CoreCompileInputs.cache
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CopyComplete
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.exe
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.xml
+C:\Users\cesin\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.pdb
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe.config
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.exe
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.pdb
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Projeto_Cake.xml
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\adodb.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\EnvDTE.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\stdole.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmClientes.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmFiltroData.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmListagemPedidos.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmLogin.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmMenu.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidos.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmPedidosData.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmProdutos.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmRelatorio.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.frmUsuarios.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.Resources.resources
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.vbproj.CopyComplete
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.exe
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.xml
+C:\Users\Aluno\Desktop\Projeto_Cake - pre 4 relatorios\Projeto_Cake - oficial\obj\x86\Debug\Projeto_Cake.pdb

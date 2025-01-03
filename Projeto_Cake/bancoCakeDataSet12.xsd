@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="bancoCakeDataSet1" targetNamespace="http://tempuri.org/bancoCakeDataSet12.xsd" xmlns:mstns="http://tempuri.org/bancoCakeDataSet12.xsd" xmlns="http://tempuri.org/bancoCakeDataSet12.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="connBD" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="connBD (MySettings)" PropertyReference="ApplicationSettings.Projeto_Cake.My.MySettings.GlobalReference.Default.connBD" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PedidosListaTableAdapter" GeneratorDataComponentClassName="PedidosListaTableAdapter" Name="PedidosLista" UserDataComponentName="PedidosListaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="connBD (MySettings)" DbObjectName="PedidosLista" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT sabor, peso, valor, data FROM PedidosLista</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="sabor" DataSetColumn="sabor" />
+              <Mapping SourceColumn="peso" DataSetColumn="peso" />
+              <Mapping SourceColumn="valor" DataSetColumn="valor" />
+              <Mapping SourceColumn="data" DataSetColumn="data" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="bancoCakeDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="bancoCakeDataSet1" msprop:Generator_DataSetName="bancoCakeDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PedidosLista" msprop:Generator_RowEvHandlerName="PedidosListaRowChangeEventHandler" msprop:Generator_RowDeletedName="PedidosListaRowDeleted" msprop:Generator_RowDeletingName="PedidosListaRowDeleting" msprop:Generator_RowEvArgName="PedidosListaRowChangeEvent" msprop:Generator_TablePropName="PedidosLista" msprop:Generator_RowChangedName="PedidosListaRowChanged" msprop:Generator_RowChangingName="PedidosListaRowChanging" msprop:Generator_TableClassName="PedidosListaDataTable" msprop:Generator_RowClassName="PedidosListaRow" msprop:Generator_TableVarName="tablePedidosLista" msprop:Generator_UserTableName="PedidosLista">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sabor" msprop:Generator_ColumnPropNameInRow="sabor" msprop:Generator_ColumnPropNameInTable="saborColumn" msprop:Generator_ColumnVarNameInTable="columnsabor" msprop:Generator_UserColumnName="sabor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="peso" msprop:Generator_ColumnPropNameInRow="peso" msprop:Generator_ColumnPropNameInTable="pesoColumn" msprop:Generator_ColumnVarNameInTable="columnpeso" msprop:Generator_UserColumnName="peso" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="valor" msprop:Generator_ColumnPropNameInRow="valor" msprop:Generator_ColumnPropNameInTable="valorColumn" msprop:Generator_ColumnVarNameInTable="columnvalor" msprop:Generator_UserColumnName="valor" type="xs:double" minOccurs="0" />
+              <xs:element name="data" msprop:Generator_ColumnPropNameInRow="data" msprop:Generator_ColumnPropNameInTable="dataColumn" msprop:Generator_ColumnVarNameInTable="columndata" msprop:Generator_UserColumnName="data" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
